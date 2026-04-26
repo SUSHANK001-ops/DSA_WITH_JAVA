@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Dsa With Java.iml" filepath="$PROJECT_DIR$/.idea/Dsa With Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinerSearch/LinerSearch.iml" filepath="$PROJECT_DIR$/LinerSearch/LinerSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/function and methods/function and methods.iml" filepath="$PROJECT_DIR$/function and methods/function and methods.iml" />
+    </modules>
+  </component>
+</project>
